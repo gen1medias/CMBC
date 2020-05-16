@@ -1,0 +1,24 @@
+Leaders Page:
+    Contains info on Pastors and any other leaders to be mentioned
+
+Ministriees Page:
+    Highlights all ministries within the Church (youth, children, Sunday School, Deacons, ministers, hospitality, etc)
+
+Outreach
+    Will be house on Ministries page, displaying all outreach events throuhout the year
+
+Welcome:
+    Service Times
+    Directions
+    expectations when coming to CMBC
+    Welcome video from Pastors?
+
+Give:
+    Various links by which the people could give online in support of the ministry
+
+
+Each page should contain:
+    Same color background
+    nav bar 
+    footer
+
